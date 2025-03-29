@@ -62,10 +62,10 @@ customer-churn-prediction/
 
 📈 Results & Insights
 Model Accuracy Precision Recall F1-score ROC-AUC
-Logistic Regression 79% 0.65 0.55 0.60 0.84
-Decision Tree 77% 0.61 0.57 0.59 0.75
-Random Forest 80% 0.67 0.56 0.61 0.85
-XGBoost 81% 0.69 0.58 0.63 0.86
+Logistic Regression 81% 0.68 0.54 0.60 0.85
+Random Forest 79% 0.67 0.56 0.59 0.82
+XGBoost 78% 0.66 0.58 0.60 0.82
+Decision Tree 74% 0.61 0.57 0.59 0.67
 
 📌 Conclusion
 This project successfully demonstrates the use of machine learning techniques to predict customer churn, providing businesses valuable insights for retention strategies.
